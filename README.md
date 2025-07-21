@@ -1,6 +1,13 @@
 
 in terminal 1 
 
+
+```bash
+cd catkin_ws
+source devel/setup.bash
+roslaunch my_gurdy_description one_touch_spawn_control.launch
+```
+
 cd catkin_ws
 
 source devel/setup.bash
