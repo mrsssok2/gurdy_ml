@@ -8,22 +8,22 @@ source devel/setup.bash
 roslaunch my_gurdy_description one_touch_spawn_control.launch
 ```
 
-cd catkin_ws
 
-source devel/setup.bash
-
-roslaunch my_gurdy_description one_touch_spawn_control.launch
 
 in terminal 2 
 
+```bash
 pip install pyquaternion
+```
 
+```bash
 cd catkin_ws
 
 source devel/setup.bash
+```
 
-and then try out all these
-
+and then try out all these 
+``` bash
 roslaunch my_gurdy_description train_gurdy.launch
 
 roslaunch my_gurdy_description launch_sarsa.launch
@@ -35,6 +35,8 @@ roslaunch my_gurdy_description ppo_launch.launch
 roslaunch my_gurdy_description sac_launch.launch
 
 roslaunch my_gurdy_description ppo_launch.launch
+
+```
 
 
 
