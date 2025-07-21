@@ -38,6 +38,8 @@ roslaunch my_gurdy_description ppo_launch.launch
 
 ```
 
+https://github.com/mrsssok2/my_gurdy_description/issues/1#issue-3248963027
+
 
 
 
