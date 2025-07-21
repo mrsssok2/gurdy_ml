@@ -37,7 +37,6 @@ roslaunch my_gurdy_description sac_launch.launch
 roslaunch my_gurdy_description ppo_launch.launch
 
 ```
-https://github.com/user-attachments/assets/0c3899f6-1a83-408c-ad06-21ed25311969
 
 
 
