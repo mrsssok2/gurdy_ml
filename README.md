@@ -22,7 +22,7 @@ cd catkin_ws
 source devel/setup.bash
 ```
 
-and then try out all these 
+and then try out all these  one by one in the same terminal
 ``` bash
 roslaunch my_gurdy_description train_gurdy.launch
 
@@ -37,6 +37,8 @@ roslaunch my_gurdy_description sac_launch.launch
 roslaunch my_gurdy_description ppo_launch.launch
 
 ```
+
+
 
 
 
